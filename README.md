@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN stack developer**
 
-- 💬 Ask me about **java script**
+- 💬 Ask me about **java script** **html** **css**
 
 - 📫 How to reach me **srinithimaheswaran16@gmail.com**
 
